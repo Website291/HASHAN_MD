@@ -17,7 +17,9 @@ Get session id by (PAIR CODE)
 _DEPLOYMENT PLATFORMS_ :
 
 _• Github Workflow_
+
 _• Replit_
+
 _• Github Codespace_
 
 
